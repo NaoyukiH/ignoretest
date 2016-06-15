@@ -1,0 +1,9 @@
+/log/*
+/tmp/sessions/*
+/tmp/smarty/*
+/public/a.txt
+/config/environment.php	
+/config/environment2.php
+!.gitkeep
+.DS_Store
+._.DS_Store
