@@ -1,3 +1,3 @@
 <?php
 
-define('WIRED_ENV', 'development');
+define('WIRED_ENV', 'production');
